@@ -1,0 +1,11 @@
+F:\Projects\Palindrome\src\Palindrome.Api\obj\Debug\netcoreapp2.0\Palindrome.Api.csprojResolveAssemblyReference.cache
+F:\Projects\Palindrome\src\Palindrome.Api\obj\Debug\netcoreapp2.0\Palindrome.Api.csproj.CoreCompileInputs.cache
+F:\Projects\Palindrome\src\Palindrome.Api\obj\Debug\netcoreapp2.0\Palindrome.Api.AssemblyInfoInputs.cache
+F:\Projects\Palindrome\src\Palindrome.Api\obj\Debug\netcoreapp2.0\Palindrome.Api.AssemblyInfo.cs
+F:\Projects\Palindrome\src\Palindrome.Api\bin\Debug\netcoreapp2.0\Palindrome.Api.deps.json
+F:\Projects\Palindrome\src\Palindrome.Api\bin\Debug\netcoreapp2.0\Palindrome.Api.runtimeconfig.json
+F:\Projects\Palindrome\src\Palindrome.Api\bin\Debug\netcoreapp2.0\Palindrome.Api.runtimeconfig.dev.json
+F:\Projects\Palindrome\src\Palindrome.Api\bin\Debug\netcoreapp2.0\Palindrome.Api.dll
+F:\Projects\Palindrome\src\Palindrome.Api\bin\Debug\netcoreapp2.0\Palindrome.Api.pdb
+F:\Projects\Palindrome\src\Palindrome.Api\obj\Debug\netcoreapp2.0\Palindrome.Api.dll
+F:\Projects\Palindrome\src\Palindrome.Api\obj\Debug\netcoreapp2.0\Palindrome.Api.pdb

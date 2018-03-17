@@ -1,0 +1,5 @@
+F:\Projects\Palindrome\src\PalindromeDB\bin\Debug\PalindromeDB.dacpac
+F:\Projects\Palindrome\src\PalindromeDB\bin\Debug\PalindromeDB.dll
+F:\Projects\Palindrome\src\PalindromeDB\bin\Debug\PalindromeDB.pdb
+F:\Projects\Palindrome\src\PalindromeDB\obj\Debug\PalindromeDB.dll
+F:\Projects\Palindrome\src\PalindromeDB\obj\Debug\PalindromeDB.pdb

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Palindrome]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Text] NVARCHAR(MAX) NULL
+)
